@@ -35,7 +35,7 @@ let products = [
     {
         id: 4,
         name: "MARVEL'S PIDERMAN 2",
-        image: 'mk1.png',
+        image: 'mk1.jpg',
         price: 50.99
     },
     {
