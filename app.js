@@ -23,7 +23,7 @@ let products = [
     {
         id: 2,
         name: 'EA SPORTS FIFA 23',
-        image: 'spid.png',
+        image: 'fc23.jpg',
         price: 59.99
     },
     {
@@ -35,7 +35,7 @@ let products = [
     {
         id: 4,
         name: "MARVEL'S PIDERMAN 2",
-        image: 'spid.png',
+        image: 'spid.PNG',
         price: 50.99
     },
     {
@@ -47,43 +47,43 @@ let products = [
     {
         id: 6,
         name: 'GRAND THEFT AUTO 6',
-        image: 'gta.png',
+        image: 'gta.PNG',
         price: 79.99
     },
     {
         id: 7,
         name: 'AFTER US',
-        image: 'aft.png',
+        image: 'aft.PNG',
         price: 49.99
     },
     {
         id: 8,
         name: 'DEAD ISLAND 2',
-        image: 'dead.png',
+        image: 'dead.PNG',
         price: 39.99
     },
     {
         id: 9,
         name: 'GOLLUM',
-        image: 'gol.png',
+        image: 'gol.PNG',
         price: 29.99
     },
     {
         id: 10,
         name: 'AFTER IMAGE',
-        image: 'im.png',
+        image: 'im.PNG',
         price: 19.99
     },
     {
         id: 11,
         name: 'JEDI',
-        image: 'jedi.png',
+        image: 'jedi.PNG',
         price: 44.99
     },
     {
         id: 12,
         name: 'DEAD SPACE',
-        image: 'spa.png',
+        image: 'spa.PNG',
         price: 50.99
     }
 ];
