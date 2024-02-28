@@ -23,7 +23,7 @@ let products = [
     {
         id: 2,
         name: 'EA SPORTS FIFA 23',
-        image: 'fc23.jpg',
+        image: 'spid.png',
         price: 59.99
     },
     {
